@@ -1,0 +1,18 @@
+[
+  {
+    "repository": "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common"
+    "branch": "lineage-15.0"
+  }, 
+  {
+    "repository": "sujitroy/kernel_xiaomi_armani",
+    "target_path": "kernel/xiaomi/armani"
+    "branch": "lineage-15.0"
+  },
+  {
+    "repository": "oreo-armani/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "lineage-15.0-new"
+  }
+]
+
